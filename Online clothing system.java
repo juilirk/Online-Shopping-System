@@ -321,7 +321,4 @@ public class DatabaseService {
 
         return result;
 	}
-
-
-	
 }
