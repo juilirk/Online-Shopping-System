@@ -1,0 +1,56 @@
+.menu
+{
+text-decoration:none;
+font-size:12pt;
+font-weight:bold;
+color:white;
+text-shadow:2px 2px 2px black;
+}	
+.menu:hover
+{
+color:white;
+background:black;
+}
+.btn
+{
+color:white;
+background:black;
+font-weight:bold;
+}
+.btn:hover
+{
+color:black;
+background:white;
+font-weight:bold;
+}
+.menu1
+{
+text-decoration:none;
+font-size:12pt;
+font-weight:bold;
+color:red;
+text-shadow:2px 2px 2px white;
+padding:10px;
+}	
+
+.menu2
+{
+text-decoration:none;
+font-size:12pt;
+font-weight:bold;
+color:white;
+text-shadow:2px 2px 2px black;
+}
+
+.menu3
+{
+text-decoration:none;
+font-size:14pt;
+font-weight:bold;
+color:white;
+background:red;
+text-shadow:2px 2px 2px #444444;
+padding:10px;
+border-radius:10px;
+box-shadow:5px 5px 5px #333333;
+}	
